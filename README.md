@@ -1,2 +1,2 @@
-# analise-quantitativa-dissertacao
-Análise estatística dos resultados do Survey "Meta-Survey: posicionamentos no campo da IA".
+# Análise Quantitativa Dissertação
+Análise estatística dos resultados do Survey "Meta-Survey: posicionamentos no campo da IA" (https://docs.google.com/forms/d1BvgX7urPma8V2oTi580gp9iebyoW5lgRbjLNVOspfIc/edit), que compõe o material empírico da dissertação "Título", apresentada ao Programa de Pós-Graduação em Sociologia do Departamento de Sociologia da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo.
